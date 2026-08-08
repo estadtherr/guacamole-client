@@ -64,17 +64,7 @@
                     <groupId>org.glassfish.jaxb</groupId>
                     <artifactId>jaxb-core</artifactId>
                 </exclusion>
-                
-                <!--
-                    Replace slightly older commons-codec (1.15) with newer
-                    and identical version to that used by Apache Directory API
-                    for LDAP (1.16.0) so that we don't need two copies of the
-                    same license information.
-                -->
-                <exclusion>
-                    <groupId>commons-codec</groupId>
-                    <artifactId>commons-codec</artifactId>
-                </exclusion>
+
 
                 <!--
                     Replace older BouncyCastle (1.70) with newer, compatible
@@ -95,7 +85,7 @@
         <dependency>
             <groupId>org.bouncycastle</groupId>
             <artifactId>bcpkix-jdk15to18</artifactId>
-            <version>1.80</version>
+            <version>1.84</version>
         </dependency>
 
         <!-- Guava - Utility Library -->

@@ -199,7 +199,7 @@
 
         </plugins>
     </build>
-    
+
     <dependencyManagement>
         <dependencies>
             <dependency>
@@ -214,7 +214,7 @@
                 <artifactId>jakarta.annotation-api</artifactId>
                 <version>2.1.1</version>
             </dependency>
-            
+
             <dependency>
                 <groupId>org.glassfish.hk2</groupId>
                 <artifactId>hk2-locator</artifactId>
