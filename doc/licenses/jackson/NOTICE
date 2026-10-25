@@ -4,7 +4,7 @@
 # License: Apache v2.0
 # Source:  https://raw.githubusercontent.com/FasterXML/jackson-core/refs/tags/jackson-core-${VERSION}/src/main/resources/META-INF/jackson-core-NOTICE
 #
-# --- BEGIN LICENSE FILE [2.22.1] ---
+# --- BEGIN LICENSE FILE [2.22.3] ---
 # Jackson JSON processor
 
 Jackson is a high-performance, Free/Open Source JSON processing library.
@@ -47,4 +47,4 @@ under the following copyright.
 Copyright 2018-2020 Raffaello Giulietti
 
 See Schubfach-LICENSE.
-# --- END LICENSE FILE [2.22.1] ---
+# --- END LICENSE FILE [2.22.3] ---
